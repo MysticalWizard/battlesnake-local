@@ -1,2 +1,5 @@
-#DS.Store
-.DS_Store
+*.DS_Store
+*.pyc
+.cmd
+.idea
+.vscode
